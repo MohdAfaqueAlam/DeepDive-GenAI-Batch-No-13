@@ -1,0 +1,5 @@
+openai
+Ollama
+python-dotenv
+langchain-openai
+langchain-google-genai
