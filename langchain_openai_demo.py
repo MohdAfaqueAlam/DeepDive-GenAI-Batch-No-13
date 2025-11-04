@@ -13,7 +13,7 @@ load_dotenv()
 
 llm = ChatOpenAI(model="gpt-oss-120b")
 
-response = llm.invoke("ECan you write a poem about a sunset in 50 words?")
+response = llm.invoke("Can you write a poem about a sunset in 50 words?")
 
 print(response.content)
 
