@@ -5,4 +5,4 @@ langchain-openai
 langchain-google-genai
 langchain-anthropic
 langchain-ollama
-langchain-colab
+langchain-huggingface
