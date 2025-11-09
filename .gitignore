@@ -2,3 +2,4 @@
 My_Virtual_Environment
 __pycache__
 langchain_colab_demo.ipynb
+.gradio
